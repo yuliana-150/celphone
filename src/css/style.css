@@ -1,3 +1,10 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+*{
+ font-family: "Roboto", sans-serif;
+}
+
+.mi_titulo_hear{
+     font-family: "Montenegrin Gothic One", serif;
+}
